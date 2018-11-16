@@ -18,6 +18,12 @@ public class Main {
     // 6. sort the ArrayList in descending order by count
     //    using Collections.sort and an instance of the provided comparator (after fixing the latter)
     // 7. print the (up to) ten most frequent words in the text
+    
+    /*
+     * to create this solution run a for loop that prints every element of topTen with 
+     * for(i=0, i<10, i++)
+     * "The " +i+"most common word is" + word + count;
+     */
 
   }
 }
